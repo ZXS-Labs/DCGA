@@ -1,0 +1,10 @@
+{
+    "test": [
+        {
+            "rgb": "data/红外.png",
+            "depth": "data/深度.png",
+            "gt": "data/深度.png",
+            "K": "data_depth_selection/test_depth_completion_anonymous/intrinsics/0000000000.txt"
+        }
+    ]
+}
